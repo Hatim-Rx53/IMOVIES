@@ -5,18 +5,22 @@
 [![Material UI](https://img.shields.io/badge/UI-Material--UI%20v5-007FFF?style=for-the-badge&logo=mui)](https://mui.com)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Demo Video](https://img.shields.io/badge/Demo-Walkthrough%20Video-red?style=for-the-badge&logo=youtube)](docs/videos/imovies-demo.webm)
+[![Watch Demo Video](https://img.shields.io/badge/Demo%20Video-MP4%20Playback-E50914?style=for-the-badge&logo=youtube)](docs/videos/imovies-demo.mp4)
 
 A modern, full-stack **Cinema Management and Ticket Booking System** engineered with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and **Socket.io**. Designed for high concurrency, it delivers real-time temporary seat reservations, dynamic multi-tier theater screen visualization, interactive multi-method payment simulations, contactless QR-coded electronic tickets, and an administrative back-office console.
 
 ---
 
-## 🎥 Video Demo Walkthrough
+## 🎥 Live Demo Walkthrough
 
-A complete recorded video walkthrough demonstrating the full customer and administrator workflow is available in the repository:
-- **Direct Video File**: [docs/videos/imovies-demo.webm](docs/videos/imovies-demo.webm) *(Plays directly in Chrome, Edge, Firefox, or any modern media player)*
+### Instant Inline Preview (Auto-Plays on GitHub)
+![IMovies Live Walkthrough Demo](docs/videos/imovies-demo.gif)
 
-**Walkthrough Sequence Covered in Demo:**
+> 💡 **Prefer Full-Screen HD Video?**
+> - **[▶ Click Here to Watch `imovies-demo.mp4` in GitHub Video Player](docs/videos/imovies-demo.mp4)**
+> - **[📥 Direct Raw MP4 Stream](https://raw.githubusercontent.com/Hatim-Rx53/IMOVIES/main/docs/videos/imovies-demo.mp4)**
+
+#### Complete Workflow Sequence in the Demo:
 1. **Catalog Exploration**: Home page hero trailer carousel and genre filters.
 2. **User Authentication**: Instant sign-in with pre-configured demo credentials.
 3. **Film Details**: Ratings, duration, synopsis, cast, and director review.
