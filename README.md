@@ -5,8 +5,29 @@
 [![Material UI](https://img.shields.io/badge/UI-Material--UI%20v5-007FFF?style=for-the-badge&logo=mui)](https://mui.com)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Demo Video](https://img.shields.io/badge/Demo-Walkthrough%20Video-red?style=for-the-badge&logo=youtube)](docs/videos/imovies-demo.webm)
 
 A modern, full-stack **Cinema Management and Ticket Booking System** engineered with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and **Socket.io**. Designed for high concurrency, it delivers real-time temporary seat reservations, dynamic multi-tier theater screen visualization, interactive multi-method payment simulations, contactless QR-coded electronic tickets, and an administrative back-office console.
+
+---
+
+## 🎥 Video Demo Walkthrough
+
+A complete recorded video walkthrough demonstrating the full customer and administrator workflow is available in the repository:
+- **Direct Video File**: [docs/videos/imovies-demo.webm](docs/videos/imovies-demo.webm) *(Plays directly in Chrome, Edge, Firefox, or any modern media player)*
+
+**Walkthrough Sequence Covered in Demo:**
+1. **Catalog Exploration**: Home page hero trailer carousel and genre filters.
+2. **User Authentication**: Instant sign-in with pre-configured demo credentials.
+3. **Film Details**: Ratings, duration, synopsis, cast, and director review.
+4. **Showtime Selection**: Filtering screenings by date and theatre chain.
+5. **Real-Time Seat Locking**: Interactive SVG seating grid, selecting VIP/Premium seats, and observing the 5-minute reservation countdown timer.
+6. **Multi-Payment Checkout**: Switching between Credit Card, UPI, and Net Banking options.
+7. **Instant E-Ticket**: Confirmed booking reference, QR Code generator, and printable voucher modal.
+8. **User Dashboard**: Viewing active reservations and refund status.
+9. **Admin Console**: Exploring executive KPIs (revenue, booking volumes) and movie catalog management.
+
+---
 
 ---
 

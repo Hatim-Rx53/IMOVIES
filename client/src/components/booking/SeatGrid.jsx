@@ -113,6 +113,7 @@ export default function SeatGrid({ seatLayout, selectedSeats, onToggleSeat, curr
                               placement="top"
                             >
                               <Box
+                                data-seat-id={seat.seatId}
                                 onClick={() => {
                                   if (isSelectable) onToggleSeat(seat);
                                 }}

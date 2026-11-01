@@ -9,6 +9,7 @@
     "seed": "cd server && npm run seed"
   },
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "playwright": "^1.64.1"
   }
 }
