@@ -1,0 +1,14 @@
+{
+  "name": "imovies-cinema-management",
+  "version": "1.0.0",
+  "description": "Full-stack IMovies & Cinema Management System",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "seed": "cd server && npm run seed"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
